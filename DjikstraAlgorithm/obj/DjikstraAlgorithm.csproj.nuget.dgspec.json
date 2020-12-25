@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\DjikstraAlgorithm\\DjikstraAlgorithm\\DjikstraAlgorithm.csproj": {}
+    "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\Djikstra-Algorithm-Console-Version\\DjikstraAlgorithm\\DjikstraAlgorithm.csproj": {}
   },
   "projects": {
-    "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\DjikstraAlgorithm\\DjikstraAlgorithm\\DjikstraAlgorithm.csproj": {
+    "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\Djikstra-Algorithm-Console-Version\\DjikstraAlgorithm\\DjikstraAlgorithm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\DjikstraAlgorithm\\DjikstraAlgorithm\\DjikstraAlgorithm.csproj",
+        "projectUniqueName": "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\Djikstra-Algorithm-Console-Version\\DjikstraAlgorithm\\DjikstraAlgorithm.csproj",
         "projectName": "DjikstraAlgorithm",
-        "projectPath": "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\DjikstraAlgorithm\\DjikstraAlgorithm\\DjikstraAlgorithm.csproj",
+        "projectPath": "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\Djikstra-Algorithm-Console-Version\\DjikstraAlgorithm\\DjikstraAlgorithm.csproj",
         "packagesPath": "C:\\Users\\sukhy\\.nuget\\packages\\",
-        "outputPath": "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\DjikstraAlgorithm\\DjikstraAlgorithm\\obj\\",
+        "outputPath": "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\Djikstra-Algorithm-Console-Version\\DjikstraAlgorithm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sukhy\\AppData\\Roaming\\NuGet\\NuGet.Config",

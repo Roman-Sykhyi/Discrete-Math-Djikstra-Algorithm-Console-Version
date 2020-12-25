@@ -11,3 +11,16 @@ E:\lpnu\Дискретна математика\Лабораторні\8\Djikstr
 E:\lpnu\Дискретна математика\Лабораторні\8\DjikstraAlgorithm\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.dll
 E:\lpnu\Дискретна математика\Лабораторні\8\DjikstraAlgorithm\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.pdb
 E:\lpnu\Дискретна математика\Лабораторні\8\DjikstraAlgorithm\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.genruntimeconfig.cache
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.exe
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.deps.json
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.runtimeconfig.json
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.runtimeconfig.dev.json
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.dll
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.pdb
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.csprojAssemblyReference.cache
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.AssemblyInfoInputs.cache
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.AssemblyInfo.cs
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.csproj.CoreCompileInputs.cache
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.dll
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.pdb
+E:\lpnu\Дискретна математика\Лабораторні\8\Djikstra-Algorithm-Console-Version\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.genruntimeconfig.cache

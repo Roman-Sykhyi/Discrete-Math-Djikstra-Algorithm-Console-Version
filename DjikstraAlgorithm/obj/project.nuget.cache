@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ex3cNAsp4yZ9fSK6itkJKyRhNJw0+IMQTGKSySwxJHujJfH0az22UJBcYKg2wUmZU+qmCpDQ4oT5huiuh2khIw==",
+  "dgSpecHash": "/EDdzd1vBWywROBOlTPrq8m55gQffP1UjBULUtLwU1FlSn3S4mJKYW8epfvzl9ANyYLZ0mURmEu0t2briN0dtw==",
   "success": true,
-  "projectFilePath": "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\DjikstraAlgorithm\\DjikstraAlgorithm\\DjikstraAlgorithm.csproj",
+  "projectFilePath": "E:\\lpnu\\Дискретна математика\\Лабораторні\\8\\Djikstra-Algorithm-Console-Version\\DjikstraAlgorithm\\DjikstraAlgorithm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -27,12 +27,16 @@ namespace DjikstraAlgorithm
 
             startPointNumber -= 1;
 
-            Djikstra Djikstra = new Djikstra(startPointNumber);
+            Djikstra Djikstra = new Djikstra();
+            Djikstra.FindShortestPaths(startPointNumber);
 
+            Console.WriteLine();
             foreach (var point in Djikstra.Graph.Points)
             {
-                Console.WriteLine($"Найкоротший шлях від вершини {Djikstra.startPoint.Name} до вершини {point.Name} = {point.DistanceFromStart}");
+                Console.WriteLine($"Найкоротший шлях від вершини {Djikstra.StartPoint.Name} до вершини {point.Name} = {point.DistanceFromStart}");
             }
+
+            Console.ReadKey();
         }
     }
 }

@@ -9,13 +9,15 @@ namespace DjikstraAlgorithm
     {
         public Graph Graph;
         private List<Point> uncheckedPoints;
-        public Point startPoint;
+        public Point StartPoint;
 
-        public void FindShortestPaths()
+        public void FindShortestPaths(int startPointNumber)
         {
-            startPoint.DistanceFromStart = 0;
+            StartPoint = Graph.Points[startPointNumber];
+
+            StartPoint.DistanceFromStart = 0;
             
-            CheckPointNeighbours(startPoint);
+            CheckPointNeighbours(StartPoint);
             while (true)
             {
                 var currentPoint = GetNextUncheckedPoint();
@@ -71,17 +73,13 @@ namespace DjikstraAlgorithm
             return null;
         }
 
-        public Djikstra(int startPoint)
+        public Djikstra()
         {
             Graph = new Graph();
             
             Point[] uncheckedPointsArr = new Point[Graph.Points.Count];
             Graph.Points.CopyTo(uncheckedPointsArr);
             uncheckedPoints = uncheckedPointsArr.ToList<Point>();
-
-            this.startPoint = Graph.Points[startPoint];
-
-            FindShortestPaths();
         }
     }
 }
